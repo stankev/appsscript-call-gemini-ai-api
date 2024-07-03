@@ -1,7 +1,7 @@
 # appsscript-call-gemini-ai-api
 ## Example code on how to use Google Docs Apps script to call the Google Gemini AI API
 
-Example code that shows how to use Google Apps Script in a Google Doc to make API calls to Google Gemini AI API.  The example invokes the Gemini API to create action items from a set of meeting minutes.
+Example code that shows how to use Google Apps Script in a Google Doc to make API calls to Google Gemini AI API.  The example invokes the Gemini API to create action items from a set of meeting minutes.  It is using text as the input and generating text
 
 
 ## Instructions

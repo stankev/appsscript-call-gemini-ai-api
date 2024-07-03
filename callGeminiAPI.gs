@@ -21,7 +21,7 @@
 
   // Define the constants for the Gemini Vertex API call
     
-    const projectId = "YOUR_PROJECT_ID";       // enter your project Id from the google cloud, or for more security use a script properties to store the ID
+    const projectId = 'YOUR_PROJECT_ID';                // enter your project Id from the google cloud, or for more security use a script properties to store the ID
     const modelId = 'gemini-1.5-pro-001';               // choose one of the Gemini models you want to use for this script
     const location = 'us-central1';                     // choose the location for the API resources 
     const apiURL = `https://${location}-aiplatform.googleapis.com/v1/projects/${projectId}/locations/${location}/publishers/google/models/${modelId}:generateContent`; 

@@ -5,11 +5,11 @@ Example code that shows how to use Google Apps Script in a Google Doc to make AP
 
 
 ## Instructions
-Detailed instructions for implementing this script in a Google Doc can be found in this blog post: https://www.aiinnovate360.com/
+Detailed instructions for implementing this script in a Google Doc can be found in this blog post: https://www.aiinnovate360.com/post/how-to-use-google-gemini-apis-in-google-docs
 
 ## Dependencies
 - Access to Google Docs
-- Requires an Google cloud account
+- Requires a Google cloud account to access the Vertex (Gemini) AI API
 
 ## Disclaimer
 The authors and contributors of this program provide it as-is, without any warranties or guarantees. They cannot be held responsible for any damages resulting from the use of this program.
